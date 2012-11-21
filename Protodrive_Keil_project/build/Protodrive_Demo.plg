@@ -1,0 +1,45 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Keil\Protodrive_Demo_uvision_lpc1768\Protodrive_Demo\Protodrive_Demo.uvproj
+Project File Date:  11/21/2012
+
+<h2>Output:</h2>
+Build target 'mbed NXP LPC1768'
+compiling main.cpp...
+RPCInterface\RPCFunction.h(84): warning:  #1-D: last line of file ends without a newline
+RPCInterface\RPCVariable.h(102): warning:  #1-D: last line of file ends without a newline
+RPCInterface\SerialRPCInterface.h(90): warning:  #1-D: last line of file ends without a newline
+mbed\power_sources.h(87): warning:  #1-D: last line of file ends without a newline
+mbed\measurement.h(84): warning:  #1-D: last line of file ends without a newline
+mbed\motor_control.h(140): warning:  #1-D: last line of file ends without a newline
+compiling RPCFunction.cpp...
+RPCInterface\RPCFunction.h(84): warning:  #1-D: last line of file ends without a newline
+compiling SerialRPCInterface.cpp...
+RPCInterface\RPCFunction.h(84): warning:  #1-D: last line of file ends without a newline
+RPCInterface\RPCVariable.h(102): warning:  #1-D: last line of file ends without a newline
+RPCInterface\SerialRPCInterface.h(90): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=35916 RO-data=3912 RW-data=292 ZI-data=1580  
+User command #1: fromelf --bin -o build\Protodrive_Demo_LPC1768.bin build\Protodrive_Demo.axf
+".\build\Protodrive_Demo.axf" - 0 Error(s), 10 Warning(s).
+Build target 'mbed NXP LPC1768'
+compiling RPCFunction.cpp...
+RPCInterface\RPCFunction.h(84): warning:  #1-D: last line of file ends without a newline
+compiling SerialRPCInterface.cpp...
+RPCInterface\RPCFunction.h(84): warning:  #1-D: last line of file ends without a newline
+RPCInterface\RPCVariable.h(102): warning:  #1-D: last line of file ends without a newline
+RPCInterface\SerialRPCInterface.h(90): warning:  #1-D: last line of file ends without a newline
+compiling main.cpp...
+RPCInterface\RPCFunction.h(84): warning:  #1-D: last line of file ends without a newline
+RPCInterface\RPCVariable.h(102): warning:  #1-D: last line of file ends without a newline
+RPCInterface\SerialRPCInterface.h(90): warning:  #1-D: last line of file ends without a newline
+mbed\power_sources.h(87): warning:  #1-D: last line of file ends without a newline
+mbed\measurement.h(84): warning:  #1-D: last line of file ends without a newline
+mbed\motor_control.h(140): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=35916 RO-data=3912 RW-data=292 ZI-data=1580  
+User command #1: fromelf --bin -o build\Protodrive_Demo_LPC1768.bin build\Protodrive_Demo.axf
+".\build\Protodrive_Demo.axf" - 0 Error(s), 10 Warning(s).
